@@ -1,5 +1,5 @@
 # intro_to_ds
-This repository contains projects and visualizations created from the Data WScience and Analytics program with UNLV.
+This repository contains projects and visualizations created from the Data Science and Analytics program with UNLV.
 
 ## SQL
 
